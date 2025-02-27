@@ -26,7 +26,8 @@ if (isset($_GET["e"])) {
 
             echo ("Success");
 
-            // Email sending logic (Optional)
+            // Email sending logic
+            // Enter your email address and app password
 
             $mail = new PHPMailer\PHPMailer\PHPMailer();
             $mail->IsSMTP();

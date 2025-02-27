@@ -7,7 +7,7 @@ class Database {
     // Setup the database connection
     public static function setUpConnection() {
         if (!isset(Database::$connection)) {
-            Database::$connection = new mysqli("localhost","root","#Lucky2003sql","Coming-Soon_db", "3306" );
+            Database::$connection = new mysqli("localhost","root","password ","Coming-Soon_db", "3306" ); //Add your MySQL database name and password
 
             // Check for connection errors
             if (Database::$connection->connect_error) {
