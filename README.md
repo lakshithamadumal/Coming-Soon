@@ -64,10 +64,12 @@ Start your local server (XAMPP, MAMP, or WAMP) and visit the project URL.
 - SweetAlert ⚠️
 
 ## 📸 Screenshots
-1. Folder Structure 🗂️
+1. Coming Soon Page UI 🗂️
+
 ![Folder Structure](assets/images/Screenshot1.png)
 
-2. Subscription Form with Thank You Email 💌
+3. Subscription Form with Thank You Email 💌
+
 ![Folder Structure](assets/images/Screenshot2.png)
 
 (Upload another screenshot here)
