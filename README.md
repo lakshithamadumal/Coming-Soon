@@ -72,7 +72,6 @@ Start your local server (XAMPP, MAMP, or WAMP) and visit the project URL.
 
 ![Folder Structure](assets/images/Screenshot2.png)
 
-(Upload another screenshot here)
 
 ## 💪 Contribution
 Feel free to contribute to this project! Create a pull request or issue, and let's make this better together 🚀✨
