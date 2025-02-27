@@ -65,9 +65,10 @@ Start your local server (XAMPP, MAMP, or WAMP) and visit the project URL.
 
 ## 📸 Screenshots
 1. Folder Structure 🗂️
-![Folder Structure](Screenshot 2025-02-27 221718.png)
+![Folder Structure](assets/images/Screenshot1.png)
 
 2. Subscription Form with Thank You Email 💌
+![Folder Structure](assets/images/Screenshot2.png)
 
 (Upload another screenshot here)
 
